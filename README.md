@@ -1,6 +1,11 @@
 # Bank Soal Matdis
 Sebagai asisten Matematika Diskrit, Anda dituntut untuk membuat 10 soal yang memuat seluruh materi Matematika Diskrit yang akan diajukan sebagai soal kuis ke dosen mata kuliah. Beberapa soal Anda dan rekan asisten Anda akan dipilih dosen menjadi soal kuis (jadi kalau tahun lalu Anda tidak suka dengan soal kuisnya, salahkan asisten di atas Anda (kami)). Ingat, Anda memegang nasib seluruh adik tingkat dan peserta Matematika Diskrit yang Anda asistenkan, jadi pastikan soal yang Anda buat logis, jelas, dan bisa diselesaikan dalam waktu 50-60 menit. Namun, ingat pula bahwa Informatika ITB punya standar yang harus Anda jaga, jadi buatlah soal yang berkualitas, namun manusiawi untuk mahasiswa-mahasiswi Institut Terbaik Bangsa.
 
+## Prerekuisit
+Tugas seleksi hanya akan dinilai oleh asisten bila peserta seleksi memenuhi satu dari dua syarat di bawah ini:
+1. Peserta memiliki score total seleksi di bawah 2000 (`score < 2000`) pada saat tugas ini dirilis (Asisten sudah melakukan tangkapan layar score saat tugas ini dirilis).
+2. Peserta memiliki score total seleksi lebih besar sama dengan 2000 (`score >= 2000`) pada saat tugas ini dirilis, namun sudah menyelesaikan dan memiliki score untuk task `Global Sequence Alignment - Needleman-Wunsch Algorithm` (score harus sudah ada di sheet) pada saat mengonfirmasi pengumpulan lewat line.
+
 ## Spesifikasi
 Buatlah 10 soal Matematika Diskrit beserta pembahasan dari soal tersebut dalam dokumen berformat pdf. Berikut ini adalah ketentuan dari soal dan pembahasan tersebut.
 - Soal didesain dengan model soal seperti kuis Matematika Diskrit
